@@ -1,0 +1,174 @@
+body{
+    background-image: url("https://images-na.ssl-images-amazon.com/images/I/71R0rvKL2fL.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: yellow;
+    background-color: black;
+}
+#btn1{
+    position: relative;
+    color: black;
+    font-size: 40px;
+    width: 150px;
+    top: 235px;
+    left: 45%;
+    border-radius: 50px;
+    background-color:white;
+}
+#btn2{
+    position: relative;
+    width: 150px;
+    font-size: 15px;
+    top: 482px;
+    left: 950px;
+    border-radius: 20px; 
+    color: black;
+    background-color: white;
+
+}
+#btn3{
+    position: relative;
+    width: 150px;
+    font-size: 15px;
+    top: 482px;
+    left: 680px;
+    border-radius: 20px; 
+    color: black;
+    background-color: white;
+
+}
+
+#btn4{
+    position: relative;
+    color: yellow;
+    font-size: 34px;
+    width: 97px;
+    top: 54px;
+    background-color: black;
+}
+
+.prg{
+    color: yellow;
+    height: 115px;
+    left: -2px;
+    position: relative;
+    left: 2px;
+    top: 10px;
+
+
+}
+.blaka{
+    background-color:rgb(0, 0, 0);
+    font-size: 172%;
+}
+.A1{
+    width: 351px;
+    height: auto;
+    border: 2px solid;
+    left: 250px;
+    position: relative;
+   
+}
+.A2{
+    width: 351px;
+    height: auto;
+    border: 2px solid;
+    left: 250px;
+    position: relative;
+   
+}
+.A3{
+    width: 351px;
+    height: auto;
+    border: 2px solid;
+    left: 250px;
+    position: relative;
+   
+}
+.A4{
+    width: 351px;
+    height: auto;
+    border: 2px solid;
+    left: 250px;
+    position: relative;
+   
+}
+
+.A5{
+    width: 351px;
+    height: auto;
+    border: 2px solid;
+    left: 250px;
+    position: relative;
+   
+}
+.A6{
+    width: 351px;
+    height: auto;
+    border: 2px solid;
+    left: 250px;
+    position: relative;
+   
+}
+
+.A7{
+    width: 351px;
+    height: auto;
+    border: 2px solid;
+    left: 250px;
+    position: relative;
+   
+}
+
+.A8{
+    width: 351px;
+    height: auto;
+    border: 2px solid;
+    left: 250px;
+    position: relative;
+   
+}
+.A9{
+    width: 351px;
+    height: auto;
+    border: 2px solid;
+    left: 250px;
+    position: relative;
+   
+}
+.A10{
+    width: 351px;
+    height: auto;
+    border: 2px solid;
+    left: 250px;
+    position: relative;
+   
+}
+
+#myinput{
+    position: relative;
+    left: 170px;
+    top: 100px;
+    border: 2px solid;
+    border-color: rgb(187, 19, 69);
+    width: 300px;
+    height: 40px;
+}
+
+
+img{
+    width:150px;
+    height: 220px;
+}
+
+#txt{
+    text-align: center;
+    color: yellow;
+    background-color: black;
+    height: 100px;
+    width: 50%;
+
+}
